@@ -2,7 +2,7 @@
 slug: qnghrw
 id: 42feprzyy2qz
 type: challenge
-title: Untitled Challenge wef wef ewf
+title: Untitled Challenge wef wef ewfsadsads
 teaser: fwef wef we fewfwef
 notes:
 - type: video
