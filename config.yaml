@@ -1,1 +1,7 @@
 version: "3"
+containers:
+- name: wefwefew
+  image: fedora:34
+  memory: 256
+  resources:
+    memory: 256
