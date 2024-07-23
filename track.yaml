@@ -1,7 +1,7 @@
 slug: untitled-track-db582i
 id: fsla6yvecpk4
 revision: 1
-title: Hello good sir!wefef
+title: Hello good sir! Another update
 description: Hope you're having a great day
 icon: ""
 tags:
@@ -12,6 +12,7 @@ owner: acme
 developers:
 - peyman@instruqt.com
 instructors: []
+maintenance: true
 show_timer: true
 idle_timeout: 360
 timelimit: 1200
@@ -25,5 +26,4 @@ lab_config:
   feedback_recap_enabled: true
   feedback_tab_enabled: false
   lab_v2: false
-  override_challenge_layout: false
   loadingMessages: true
