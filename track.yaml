@@ -1,7 +1,7 @@
 slug: untitled-track-db582i
 id: fsla6yvecpk4
 revision: 1
-title: Hello good sir!wefefxz csddzsczdc
+title: Hello good sir!wefef
 description: Hope you're having a great day
 icon: ""
 tags:
@@ -22,8 +22,9 @@ lab_config:
   position: right
   extend_ttl: 0
   sidebar_enabled: true
-  hideStopButton: false
+  hideStopButton: true
   feedback_recap_enabled: true
   feedback_tab_enabled: false
-  lab_v2: true
+  lab_v2: false
+  override_challenge_layout: false
   loadingMessages: true
