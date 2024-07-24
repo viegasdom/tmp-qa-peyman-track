@@ -14,7 +14,6 @@ owner: acme
 developers:
 - peyman@instruqt.com
 instructors: []
-maintenance: true
 show_timer: true
 skipping_enabled: true
 idle_timeout: 360
